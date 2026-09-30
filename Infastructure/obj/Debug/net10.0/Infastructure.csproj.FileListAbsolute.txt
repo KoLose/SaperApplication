@@ -1,0 +1,15 @@
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/bin/Debug/net10.0/Infastructure.deps.json
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/bin/Debug/net10.0/Infastructure.dll
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/bin/Debug/net10.0/Infastructure.pdb
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/bin/Debug/net10.0/Domain.dll
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/bin/Debug/net10.0/Domain.pdb
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastructure.csproj.AssemblyReference.cache
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastructure.AssemblyInfoInputs.cache
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastructure.AssemblyInfo.cs
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastructure.csproj.CoreCompileInputs.cache
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastru.CD45A3C5.Up2Date
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastructure.dll
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/refint/Infastructure.dll
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/Infastructure.pdb
+/Users/kolose/Development/AvaloniaProjects/SapperApp/AvaloniaApp/Infastructure/obj/Debug/net10.0/ref/Infastructure.dll
